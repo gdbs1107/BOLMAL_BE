@@ -15,7 +15,8 @@
 ## 주요 기능
 ![1p](https://github.com/user-attachments/assets/66657c50-47da-4137-ad26-2d2f334c470e)
 ![2p](https://github.com/user-attachments/assets/2846fee7-811f-435f-89cd-b7c24aa80a0a)
-![2p](https://github.com/user-attachments/assets/797c3c93-1aa3-43d9-a129-f9ed96dccaad)
+![3p](https://github.com/user-attachments/assets/a1ea32f7-a259-4f81-a0a1-f0ae8824ae2b)
+
 
 <br><br><br>
 
