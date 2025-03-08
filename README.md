@@ -1,5 +1,5 @@
-# Back-end
-볼래말래 백엔드 레파지토리입니다.
+# BOLMAL_BE
+
 
 <br><br>
 
@@ -10,7 +10,7 @@
 - [Service Architecture](#Service-Architecture)
 
 
-<br><br><br>
+<br><br><br><br><br>
 
 ## 주요 기능
 ![1p](https://github.com/user-attachments/assets/66657c50-47da-4137-ad26-2d2f334c470e)
@@ -18,7 +18,7 @@
 ![3p](https://github.com/user-attachments/assets/a1ea32f7-a259-4f81-a0a1-f0ae8824ae2b)
 
 
-<br><br><br>
+<br><br><br><br><br>
 
 
 ## 기술 스택
@@ -51,7 +51,7 @@
 ![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-<br><br><br>
+<br><br><br><br><br>
 
 ## Service Architecture
 ![bolmal](https://github.com/user-attachments/assets/a61db51b-c920-45c2-8cc3-30dbe5a2ca94)
