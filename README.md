@@ -10,7 +10,7 @@
 - [Service Architecture](#Service-Architecture)
 
 
-<br><br><br><br><br>
+<br><br>
 
 ## 주요 기능
 ![1p](https://github.com/user-attachments/assets/66657c50-47da-4137-ad26-2d2f334c470e)
